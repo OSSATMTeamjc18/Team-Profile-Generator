@@ -17,7 +17,7 @@ https://github.com/OSSATMTeamjc18/Team-Profile-Generator.git
 
 ## Walk through video of what i have
 
-
+https://drive.google.com/file/d/1KQN-kjrmLe0pvO_RK9WdszWLvF0Gmx03/view
 
 ## Contribution 
 Brady Taylor
