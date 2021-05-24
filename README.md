@@ -19,6 +19,10 @@ https://github.com/OSSATMTeamjc18/Team-Profile-Generator.git
 
 https://drive.google.com/file/d/1KQN-kjrmLe0pvO_RK9WdszWLvF0Gmx03/view
 
+## Screen Shot of webpage
+
+file:///C:/Users/Baeta/Desktop/projects/Challenge-10-Team-Profile-Generator/Team-Profile-Generator/output-html/team.html
+
 ## Contribution 
 Brady Taylor
 
