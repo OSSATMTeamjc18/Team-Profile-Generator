@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1KQN-kjrmLe0pvO_RK9WdszWLvF0Gmx03/view
 
 ## Screen Shot of webpage
 
-file:///C:/Users/Baeta/Desktop/projects/Challenge-10-Team-Profile-Generator/Team-Profile-Generator/output-html/team.html
+![team profile generator](https://user-images.githubusercontent.com/79553994/119300198-984a1f00-bc1d-11eb-8c02-22c21ade8ee7.png)
 
 ## Contribution 
 Brady Taylor
